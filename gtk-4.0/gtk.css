@@ -1,0 +1,19 @@
+/* Nautilus transparent glass effect */
+
+window,
+.background,
+.navigation-sidebar,
+headerbar,
+toolbar {
+    background-color: rgba(25, 25, 35, 0.65);
+}
+
+/* Transparent file view */
+.nautilus-window .view {
+    background-color: rgba(25, 25, 35, 0.45);
+}
+
+/* Remove solid borders */
+window {
+    border: none;
+}

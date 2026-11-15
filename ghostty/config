@@ -1,0 +1,10 @@
+# Transparency
+background-opacity = 0.01
+
+# Background blur
+background-blur = true
+
+# Theme
+theme = Catppuccin Mocha
+
+
